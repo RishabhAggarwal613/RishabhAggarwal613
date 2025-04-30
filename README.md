@@ -1,8 +1,10 @@
-<p align="left">Hello World!!</p>
+<br clear="both">
+
+<h1 align="center">Hello World!! I'm Rishabh Aggarwal</h1>
 
 ###
 
-<p align="left">I'm a passionate tech enthusiast fueled by curiosity and driven by innovation. With a solid foundation in Java programming, full-stack development, cloud technologies, and AI integration, I specialize in transforming bold ideas into impactful, real-world solutions. Whether it's crafting seamless user experiences or building intelligent platforms, I thrive at the intersection of code, creativity, and purpose. With hands-on experience developing scalable full-stack apps, AI-powered tools, and collaborative digital solutions, I approach every project as an opportunity to solve complex challenges and create something meaningful. Currently pursuing my B.Tech in Computer Science and Engineering, I’m a firm believer in lifelong learning, embracing challenges, and harnessing technology to drive positive change. My mission? To build tech that doesn't just work—but inspires, empowers, and elevates lives.</p>
+<h3 align="center">I'm a passionate tech enthusiast fueled by curiosity and driven by innovation. <br>With a solid foundation in Java programming, full-stack development, cloud technologies, and AI integration, I specialize in transforming bold ideas into impactful, real-world solutions.<br> Whether it's crafting seamless user experiences or building intelligent platforms, I thrive at the intersection of code, creativity, and purpose. <br>With hands-on experience developing scalable full-stack apps, AI-powered tools, and collaborative digital solutions, I approach every project as an opportunity to solve complex challenges and create something meaningful. <br>Currently pursuing my B.Tech in Computer Science and Engineering, I’m a firm believer in lifelong learning, embracing challenges, and harnessing technology to drive positive change. <br>My mission? To build tech that doesn't just work—but inspires, empowers, and elevates lives.</h3>
 
 ###
 
@@ -120,9 +122,5 @@
   <img src="https://streak-stats.demolab.com?user=RishabhAggarwal613&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RishabhAggarwal613&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RishabhAggarwal613/RishabhAggarwal613/output/snake.svg" alt="Snake animation" />
 
 ###
